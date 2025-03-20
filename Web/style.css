@@ -1,0 +1,16 @@
+@font-face{
+   font-family: 'Tektur';
+   src: url(./Tektur/static/Tektur-Bold.ttf);
+   font-weight: bold;
+   font-style: bold;
+}
+
+h1{
+    background: rgb(70, 70, 99);
+    border-radius: 10em;
+    width: 20em;
+    text-align: center;
+    font-family: 'Tektur';
+    font-weight: bold;
+    
+}
